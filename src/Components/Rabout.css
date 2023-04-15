@@ -1,0 +1,25 @@
+#aboutIMG{
+    border-radius: 50%;
+    /* background-position: top center; */
+    background-size: contain !important;
+    height: 240px;
+    width: 240px;
+    border: 5px solid #ff7200;
+}
+/* .FB{
+    background-color: black;
+    border:2px solid #ff7200;
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+} */
+.ICONS{
+    color: #ff7200;
+}
+.ICONS:hover{
+    color: rgb(239, 212, 6);
+}
+.BARS{
+    color: #ff7200 !important;
+    background-color: #ff7200 !important;
+}

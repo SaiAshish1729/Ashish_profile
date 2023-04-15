@@ -1,0 +1,36 @@
+#AboutImg{
+    /* background-size: cover; */
+    height: 500px;
+    width: 400px;
+}
+.about{
+    text-decoration: underline;
+}
+.about_p{
+    font-size: 20px;
+}
+.Contact_BTN{
+    width: 100px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.Contact_BTN:hover{
+    background-color: transparent !important;
+    color: white;
+    /* font-weight: 500; */
+    border: 1px solid white;
+    border-radius: 15px;
+    /* padding: 10px 15px; */
+}
+body{
+    background-color: black;
+    color: white;
+}
